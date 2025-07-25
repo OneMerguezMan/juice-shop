@@ -7,7 +7,7 @@ As reported by [`git-stats -a -s '2014'`](https://www.npmjs.com/package/git-stat
 
 ![Top git contributors](screenshots/git-stats.png)
 
-## Translators
+## Translator
 
 As exported from
 [CrowdIn Top Members Report](https://crowdin.com/project/owasp-juice-shop/reports/top-members)
